@@ -1,4 +1,4 @@
-# DataScienceInternshipTest
+# Website Traffic Analysis & A/B Testing
 
 This is a practical exercise on Programming and Analytical skills
 
